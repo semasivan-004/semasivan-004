@@ -1,6 +1,5 @@
 ## Hi there 👋 It's me Semasivan
 
-Aspiring Cybersecurity Professional
 
 - 🔐 Currently learning **Cybersecurity**
 - 🌱 Sharpening my skills in Networking, Python, and Linux
