@@ -17,4 +17,5 @@ Aspiring Cybersecurity Professional
 [![My Skills](https://skillicons.dev/icons?i=python,linux,bash,git,vscode)](https://skillicons.dev)
 
 ### 🔒 Cybersecurity Focus
-Networking · Linux Administration · Python Scripting · Security Fundamentals
+Networking , Security Fundamentals
+Linux, Python
